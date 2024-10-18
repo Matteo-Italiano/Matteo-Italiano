@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on the second part of Firewatch
 - 📫 How to reach me: matteoitalianoistcool@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I love to coock
+- ⚡ Fun fact: I love to cook
