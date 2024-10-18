@@ -3,6 +3,5 @@
 - 🌱 I’m currently learning Python, Java, JavaScript
 - 💞️ I’m looking to collaborate on the second part of Firewatch
 - 📫 How to reach me: matteoitalianoistcool@gmail.com
-- 
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I love to coock
