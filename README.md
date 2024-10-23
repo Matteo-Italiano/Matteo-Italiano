@@ -1,4 +1,4 @@
-![Firewatch Banner](https://yourlinktoimage/firewatch-banner.jpg)
+![Firewatch Banner](https://wallpapercave.com/w/wp8157604))
 
 ## 👋 Hi, I’m @Matteo-Italiano
 ## - 👀 I’m interested in Martial Arts
