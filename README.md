@@ -1,3 +1,5 @@
+![Firewatch Banner](https://yourlinktoimage/firewatch-banner.jpg)
+
 ## 👋 Hi, I’m @Matteo-Italiano
 ## - 👀 I’m interested in Martial Arts
 ## - 🌱 I’m currently learning Python, Java, JavaScript
@@ -12,3 +14,4 @@
 
 ### 🏆 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Matteo-Italiano&show_icons=true&theme=radical)
+
