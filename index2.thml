@@ -1,0 +1,6 @@
+<svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="40" font-size="35" fill="#FFA500">
+    <animate attributeName="x" from="10" to="200" dur="4s" repeatCount="indefinite" />
+    Firewatch GitHub
+  </text>
+</svg>
