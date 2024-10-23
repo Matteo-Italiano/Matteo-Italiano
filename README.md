@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/n7L6PvaX1jkwGAEYOw/giphy.gif" width="480" height="269" alt="Giphy GIF" />
+  <img src="https://media.giphy.com/media/n7L6PvaX1jkwGAEYOw/giphy.gif" width="800" height="450" alt="Giphy GIF" />
 </p>
 
 <h3 align="center">A passionate apprentice form Switzerland 📍</h3>
