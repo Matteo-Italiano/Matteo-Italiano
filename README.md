@@ -11,4 +11,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 
 ### 🏆 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Matteo-Italiano&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Matteo-Italiano&show_icons=true&theme=radical)
