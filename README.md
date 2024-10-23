@@ -1,8 +1,10 @@
-## 👋 Hi, I'm [Dein Name]!
-- 🔭 Currently working on [Projekt Name]
-- 🌱 Learning [Technologien]
-- 👯 Looking to collaborate on [Ideen]
-- 💬 Ask me about [deine Stärken]
+## 👋 Hi, I’m @Matteo-Italiano
+## - 👀 I’m interested in Martial Arts
+## - 🌱 I’m currently learning Python, Java, JavaScript
+## - 💞️ I’m looking to collaborate on the second part of Firewatch
+## - 📫 How to reach me: matteoitalianoistcool@gmail.com
+## - 😄 Pronouns: He/him
+## - ⚡ Fun fact: I love to cook
 
 ### 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
