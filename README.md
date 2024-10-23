@@ -1,4 +1,6 @@
 ![Firewatch Banner](https://wallpapercave.com/wp/wp8157604.jpg)
+![Firewatch Animated Text](https://raw.githubusercontent.com/Matteo-Italiano/Matteo-Italiano/main/animated-text.svg)
+
 
 ## 👋 Hi, I’m @Matteo-Italiano
 ## - 👀 I’m interested in Martial Arts
