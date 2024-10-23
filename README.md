@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/n7L6PvaX1jkwGAEYOw" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/n7L6PvaX1jkwGAEYOw">via GIPHY</a></p>
+![Giphy GIF](https://media.giphy.com/media/n7L6PvaX1jkwGAEYOw/giphy.gif)
 <h3 align="center">A passionate apprentice form Switzerland 📍</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
