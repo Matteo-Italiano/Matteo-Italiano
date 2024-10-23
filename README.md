@@ -1,4 +1,7 @@
-![Giphy GIF](https://media.giphy.com/media/n7L6PvaX1jkwGAEYOw/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/n7L6PvaX1jkwGAEYOw/giphy.gif" width="480" height="269" alt="Giphy GIF" />
+</p>
+
 <h3 align="center">A passionate apprentice form Switzerland 📍</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
